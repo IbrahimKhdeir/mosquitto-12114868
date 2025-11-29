@@ -1,0 +1,2140 @@
+
+============================================================
+[2025-11-29 17:00:16.949850] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.78°C
+Timestamp: 2025-11-29T17:00:16.948849
+Message Count: 0
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:19.950566] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.12°C
+Timestamp: 2025-11-29T17:00:19.950566
+Message Count: 1
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:22.954349] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.43°C
+Timestamp: 2025-11-29T17:00:22.954349
+Message Count: 2
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:25.969653] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.07°C
+Timestamp: 2025-11-29T17:00:25.968604
+Message Count: 3
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:28.994732] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 26.81°C
+Timestamp: 2025-11-29T17:00:28.994732
+Message Count: 4
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:32.002241] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 26.33°C
+Timestamp: 2025-11-29T17:00:32.001153
+Message Count: 5
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:35.028053] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.9°C
+Timestamp: 2025-11-29T17:00:35.027029
+Message Count: 6
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:38.057250] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 30.09°C
+Timestamp: 2025-11-29T17:00:38.056224
+Message Count: 7
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:41.100915] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.84°C
+Timestamp: 2025-11-29T17:00:41.099833
+Message Count: 8
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:44.126616] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.27°C
+Timestamp: 2025-11-29T17:00:44.124953
+Message Count: 9
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:47.174028] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.94°C
+Timestamp: 2025-11-29T17:00:47.172961
+Message Count: 10
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:50.194840] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.53°C
+Timestamp: 2025-11-29T17:00:50.193805
+Message Count: 11
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:53.219244] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.78°C
+Timestamp: 2025-11-29T17:00:53.218214
+Message Count: 12
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:56.271678] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.82°C
+Timestamp: 2025-11-29T17:00:56.270189
+Message Count: 13
+============================================================
+
+
+============================================================
+[2025-11-29 17:00:59.315112] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.61°C
+Timestamp: 2025-11-29T17:00:59.314087
+Message Count: 14
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:02.365087] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.59°C
+Timestamp: 2025-11-29T17:01:02.363542
+Message Count: 15
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:05.415165] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.9°C
+Timestamp: 2025-11-29T17:01:05.414117
+Message Count: 16
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:08.432169] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.49°C
+Timestamp: 2025-11-29T17:01:08.432169
+Message Count: 17
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:11.438559] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.11°C
+Timestamp: 2025-11-29T17:01:11.437533
+Message Count: 18
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:14.486089] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.48°C
+Timestamp: 2025-11-29T17:01:14.485064
+Message Count: 19
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:17.514810] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.28°C
+Timestamp: 2025-11-29T17:01:17.513195
+Message Count: 20
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:20.538602] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.55°C
+Timestamp: 2025-11-29T17:01:20.538095
+Message Count: 21
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:23.553710] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.99°C
+Timestamp: 2025-11-29T17:01:23.552671
+Message Count: 22
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:26.580818] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.95°C
+Timestamp: 2025-11-29T17:01:26.579545
+Message Count: 23
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:29.609942] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.15°C
+Timestamp: 2025-11-29T17:01:29.609438
+Message Count: 24
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:32.619893] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.9°C
+Timestamp: 2025-11-29T17:01:32.618349
+Message Count: 25
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:35.662053] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.63°C
+Timestamp: 2025-11-29T17:01:35.662053
+Message Count: 26
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:38.666112] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 34.51°C
+Timestamp: 2025-11-29T17:01:38.665084
+Message Count: 27
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:41.681044] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.34°C
+Timestamp: 2025-11-29T17:01:41.679727
+Message Count: 28
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:44.699951] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.56°C
+Timestamp: 2025-11-29T17:01:44.698574
+Message Count: 29
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:47.733147] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.85°C
+Timestamp: 2025-11-29T17:01:47.733147
+Message Count: 30
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:50.741162] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.66°C
+Timestamp: 2025-11-29T17:01:50.739624
+Message Count: 31
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:53.773317] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 21.51°C
+Timestamp: 2025-11-29T17:01:53.772288
+Message Count: 32
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:56.792499] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.89°C
+Timestamp: 2025-11-29T17:01:56.790871
+Message Count: 33
+============================================================
+
+
+============================================================
+[2025-11-29 17:01:59.803934] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.26°C
+Timestamp: 2025-11-29T17:01:59.803934
+Message Count: 34
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:02.809701] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 26.94°C
+Timestamp: 2025-11-29T17:02:02.809701
+Message Count: 35
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:05.826909] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.04°C
+Timestamp: 2025-11-29T17:02:05.825865
+Message Count: 36
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:08.851071] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 30.47°C
+Timestamp: 2025-11-29T17:02:08.849531
+Message Count: 37
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:11.882775] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.71°C
+Timestamp: 2025-11-29T17:02:11.881721
+Message Count: 38
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:14.924915] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.26°C
+Timestamp: 2025-11-29T17:02:14.924915
+Message Count: 39
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:17.933580] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.31°C
+Timestamp: 2025-11-29T17:02:17.933580
+Message Count: 40
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:20.939733] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.56°C
+Timestamp: 2025-11-29T17:02:20.939733
+Message Count: 41
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:23.946069] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.48°C
+Timestamp: 2025-11-29T17:02:23.946069
+Message Count: 42
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:26.952109] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.66°C
+Timestamp: 2025-11-29T17:02:26.951585
+Message Count: 43
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:29.957676] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.87°C
+Timestamp: 2025-11-29T17:02:29.956644
+Message Count: 44
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:32.989658] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.44°C
+Timestamp: 2025-11-29T17:02:32.988580
+Message Count: 45
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:36.011249] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 26.8°C
+Timestamp: 2025-11-29T17:02:36.009687
+Message Count: 46
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:39.037222] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.9°C
+Timestamp: 2025-11-29T17:02:39.036087
+Message Count: 47
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:42.059546] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.14°C
+Timestamp: 2025-11-29T17:02:42.058333
+Message Count: 48
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:45.108178] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.32°C
+Timestamp: 2025-11-29T17:02:45.107166
+Message Count: 49
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:48.132059] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.11°C
+Timestamp: 2025-11-29T17:02:48.131016
+Message Count: 50
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:51.180518] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.47°C
+Timestamp: 2025-11-29T17:02:51.179113
+Message Count: 51
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:54.201653] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.0°C
+Timestamp: 2025-11-29T17:02:54.200376
+Message Count: 52
+============================================================
+
+
+============================================================
+[2025-11-29 17:02:57.216560] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.32°C
+Timestamp: 2025-11-29T17:02:57.216560
+Message Count: 53
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:00.222936] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.83°C
+Timestamp: 2025-11-29T17:03:00.221386
+Message Count: 54
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:03.255214] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.81°C
+Timestamp: 2025-11-29T17:03:03.255214
+Message Count: 55
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:06.260090] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 30.88°C
+Timestamp: 2025-11-29T17:03:06.260090
+Message Count: 56
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:09.266760] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.05°C
+Timestamp: 2025-11-29T17:03:09.265724
+Message Count: 57
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:12.299591] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.92°C
+Timestamp: 2025-11-29T17:03:12.297985
+Message Count: 58
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:15.329191] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.24°C
+Timestamp: 2025-11-29T17:03:15.329191
+Message Count: 59
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:18.337007] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.34°C
+Timestamp: 2025-11-29T17:03:18.335969
+Message Count: 60
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:21.378730] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.26°C
+Timestamp: 2025-11-29T17:03:21.378730
+Message Count: 61
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:24.385391] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.45°C
+Timestamp: 2025-11-29T17:03:24.384249
+Message Count: 62
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:27.400382] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.53°C
+Timestamp: 2025-11-29T17:03:27.399870
+Message Count: 63
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:30.417148] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.98°C
+Timestamp: 2025-11-29T17:03:30.416110
+Message Count: 64
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:33.449940] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 26.37°C
+Timestamp: 2025-11-29T17:03:33.448915
+Message Count: 65
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:36.490846] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.93°C
+Timestamp: 2025-11-29T17:03:36.490846
+Message Count: 66
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:39.497612] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.82°C
+Timestamp: 2025-11-29T17:03:39.496587
+Message Count: 67
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:42.545167] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.24°C
+Timestamp: 2025-11-29T17:03:42.543554
+Message Count: 68
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:45.567339] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.45°C
+Timestamp: 2025-11-29T17:03:45.567339
+Message Count: 69
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:48.575398] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.69°C
+Timestamp: 2025-11-29T17:03:48.573864
+Message Count: 70
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:51.600058] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.39°C
+Timestamp: 2025-11-29T17:03:51.599544
+Message Count: 71
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:54.613315] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.93°C
+Timestamp: 2025-11-29T17:03:54.613315
+Message Count: 72
+============================================================
+
+
+============================================================
+[2025-11-29 17:03:57.619081] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.86°C
+Timestamp: 2025-11-29T17:03:57.617998
+Message Count: 73
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:00.639891] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 26.14°C
+Timestamp: 2025-11-29T17:04:00.639891
+Message Count: 74
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:03.646029] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.3°C
+Timestamp: 2025-11-29T17:04:03.646029
+Message Count: 75
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:06.652310] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.5°C
+Timestamp: 2025-11-29T17:04:06.650270
+Message Count: 76
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:09.684708] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.32°C
+Timestamp: 2025-11-29T17:04:09.684708
+Message Count: 77
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:12.692572] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.08°C
+Timestamp: 2025-11-29T17:04:12.692264
+Message Count: 78
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:15.701027] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.55°C
+Timestamp: 2025-11-29T17:04:15.699384
+Message Count: 79
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:18.729347] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.5°C
+Timestamp: 2025-11-29T17:04:18.729347
+Message Count: 80
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:21.737856] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 30.34°C
+Timestamp: 2025-11-29T17:04:21.737856
+Message Count: 81
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:24.749617] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.52°C
+Timestamp: 2025-11-29T17:04:24.748592
+Message Count: 82
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:27.805778] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.85°C
+Timestamp: 2025-11-29T17:04:27.804706
+Message Count: 83
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:30.839008] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 26.3°C
+Timestamp: 2025-11-29T17:04:30.837981
+Message Count: 84
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:33.863980] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.4°C
+Timestamp: 2025-11-29T17:04:33.862878
+Message Count: 85
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:36.884761] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.57°C
+Timestamp: 2025-11-29T17:04:36.884255
+Message Count: 86
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:39.895916] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.24°C
+Timestamp: 2025-11-29T17:04:39.894840
+Message Count: 87
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:42.916950] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.83°C
+Timestamp: 2025-11-29T17:04:42.916950
+Message Count: 88
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:45.924953] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.28°C
+Timestamp: 2025-11-29T17:04:45.924953
+Message Count: 89
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:48.935044] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.94°C
+Timestamp: 2025-11-29T17:04:48.934536
+Message Count: 90
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:51.947370] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.91°C
+Timestamp: 2025-11-29T17:04:51.946287
+Message Count: 91
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:54.993312] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.28°C
+Timestamp: 2025-11-29T17:04:54.993312
+Message Count: 92
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:58.014238] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.72°C
+Timestamp: 2025-11-29T17:04:58.012697
+Message Count: 93
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:01.042869] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.31°C
+Timestamp: 2025-11-29T17:05:01.041583
+Message Count: 94
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:04.104426] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.98°C
+Timestamp: 2025-11-29T17:05:04.103866
+Message Count: 95
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:07.132379] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.53°C
+Timestamp: 2025-11-29T17:05:07.131361
+Message Count: 96
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:10.157962] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 30.19°C
+Timestamp: 2025-11-29T17:05:10.157962
+Message Count: 97
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:13.169202] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.71°C
+Timestamp: 2025-11-29T17:05:13.169202
+Message Count: 98
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:16.182105] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 30.76°C
+Timestamp: 2025-11-29T17:05:16.181071
+Message Count: 99
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:19.202684] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.23°C
+Timestamp: 2025-11-29T17:05:19.201613
+Message Count: 100
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:22.266889] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.06°C
+Timestamp: 2025-11-29T17:05:22.265848
+Message Count: 101
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:25.327708] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.83°C
+Timestamp: 2025-11-29T17:05:25.326021
+Message Count: 102
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:28.371267] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.01°C
+Timestamp: 2025-11-29T17:05:28.370220
+Message Count: 103
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:31.404760] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.38°C
+Timestamp: 2025-11-29T17:05:31.403181
+Message Count: 104
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:34.460596] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.4°C
+Timestamp: 2025-11-29T17:05:34.458567
+Message Count: 105
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:37.518986] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.55°C
+Timestamp: 2025-11-29T17:05:37.518986
+Message Count: 106
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:40.531357] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.98°C
+Timestamp: 2025-11-29T17:05:40.530316
+Message Count: 107
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:43.578907] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.72°C
+Timestamp: 2025-11-29T17:05:43.576882
+Message Count: 108
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:46.614599] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 30.47°C
+Timestamp: 2025-11-29T17:05:46.614599
+Message Count: 109
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:49.625232] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 26.18°C
+Timestamp: 2025-11-29T17:05:49.624184
+Message Count: 110
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:52.662058] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.76°C
+Timestamp: 2025-11-29T17:05:52.662058
+Message Count: 111
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:55.672178] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.88°C
+Timestamp: 2025-11-29T17:05:55.671080
+Message Count: 112
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:58.709508] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.32°C
+Timestamp: 2025-11-29T17:05:58.707957
+Message Count: 113
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:01.749294] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 34.62°C
+Timestamp: 2025-11-29T17:06:01.749294
+Message Count: 114
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:04.758093] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 21.42°C
+Timestamp: 2025-11-29T17:06:04.756896
+Message Count: 115
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:07.806644] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.19°C
+Timestamp: 2025-11-29T17:06:07.805591
+Message Count: 116
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:10.853233] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.64°C
+Timestamp: 2025-11-29T17:06:10.853233
+Message Count: 117
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:13.868462] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.55°C
+Timestamp: 2025-11-29T17:06:13.867947
+Message Count: 118
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:16.877736] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 21.46°C
+Timestamp: 2025-11-29T17:06:16.877736
+Message Count: 119
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:19.892136] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.05°C
+Timestamp: 2025-11-29T17:06:19.891116
+Message Count: 120
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:22.934970] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 21.82°C
+Timestamp: 2025-11-29T17:06:22.934970
+Message Count: 121
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:25.943810] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.5°C
+Timestamp: 2025-11-29T17:06:25.942765
+Message Count: 122
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:28.987913] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.55°C
+Timestamp: 2025-11-29T17:06:28.986833
+Message Count: 123
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:32.038008] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.79°C
+Timestamp: 2025-11-29T17:06:32.037493
+Message Count: 124
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:35.044211] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.11°C
+Timestamp: 2025-11-29T17:06:35.043704
+Message Count: 125
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:38.055119] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.07°C
+Timestamp: 2025-11-29T17:06:38.054053
+Message Count: 126
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:41.102038] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 21.95°C
+Timestamp: 2025-11-29T17:06:41.101003
+Message Count: 127
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:44.144950] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.59°C
+Timestamp: 2025-11-29T17:06:44.144950
+Message Count: 128
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:47.157373] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.0°C
+Timestamp: 2025-11-29T17:06:47.156864
+Message Count: 129
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:50.177262] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.82°C
+Timestamp: 2025-11-29T17:06:50.176221
+Message Count: 130
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:53.223132] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.28°C
+Timestamp: 2025-11-29T17:06:53.222016
+Message Count: 131
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:56.249643] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.36°C
+Timestamp: 2025-11-29T17:06:56.248618
+Message Count: 132
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:59.285181] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 34.91°C
+Timestamp: 2025-11-29T17:06:59.284156
+Message Count: 133
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:02.331305] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.87°C
+Timestamp: 2025-11-29T17:07:02.330222
+Message Count: 134
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:05.361159] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.22°C
+Timestamp: 2025-11-29T17:07:05.361159
+Message Count: 135
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:08.419279] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.82°C
+Timestamp: 2025-11-29T17:07:08.419279
+Message Count: 136
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:11.429163] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.68°C
+Timestamp: 2025-11-29T17:07:11.429163
+Message Count: 137
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:14.437697] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 34.7°C
+Timestamp: 2025-11-29T17:07:14.437697
+Message Count: 138
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:17.451628] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 21.43°C
+Timestamp: 2025-11-29T17:07:17.450596
+Message Count: 139
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:20.479103] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 30.3°C
+Timestamp: 2025-11-29T17:07:20.479103
+Message Count: 140
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:23.504025] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.89°C
+Timestamp: 2025-11-29T17:07:23.502979
+Message Count: 141
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:26.535699] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.14°C
+Timestamp: 2025-11-29T17:07:26.534151
+Message Count: 142
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:29.553296] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 21.0°C
+Timestamp: 2025-11-29T17:07:29.553296
+Message Count: 143
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:32.559388] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.86°C
+Timestamp: 2025-11-29T17:07:32.559388
+Message Count: 144
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:35.569660] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.34°C
+Timestamp: 2025-11-29T17:07:35.569148
+Message Count: 145
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:38.587989] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.44°C
+Timestamp: 2025-11-29T17:07:38.586942
+Message Count: 146
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:41.621765] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.65°C
+Timestamp: 2025-11-29T17:07:41.621765
+Message Count: 147
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:44.634119] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.19°C
+Timestamp: 2025-11-29T17:07:44.634119
+Message Count: 148
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:47.641282] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.63°C
+Timestamp: 2025-11-29T17:07:47.641282
+Message Count: 149
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:50.658029] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.74°C
+Timestamp: 2025-11-29T17:07:50.656938
+Message Count: 150
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:53.699243] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 34.41°C
+Timestamp: 2025-11-29T17:07:53.698214
+Message Count: 151
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:56.733979] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.74°C
+Timestamp: 2025-11-29T17:07:56.733979
+Message Count: 152
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:59.742592] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.71°C
+Timestamp: 2025-11-29T17:07:59.741537
+Message Count: 153
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:02.752263] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.53°C
+Timestamp: 2025-11-29T17:08:02.751004
+Message Count: 154
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:05.774358] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.18°C
+Timestamp: 2025-11-29T17:08:05.774358
+Message Count: 155
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:08.786703] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.95°C
+Timestamp: 2025-11-29T17:08:08.785624
+Message Count: 156
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:11.843301] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.69°C
+Timestamp: 2025-11-29T17:08:11.842751
+Message Count: 157
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:14.852979] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 21.43°C
+Timestamp: 2025-11-29T17:08:14.852979
+Message Count: 158
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:17.866380] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.61°C
+Timestamp: 2025-11-29T17:08:17.864679
+Message Count: 159
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:20.910104] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.51°C
+Timestamp: 2025-11-29T17:08:20.910104
+Message Count: 160
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:23.925298] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.63°C
+Timestamp: 2025-11-29T17:08:23.924267
+Message Count: 161
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:26.972548] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.41°C
+Timestamp: 2025-11-29T17:08:26.971508
+Message Count: 162
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:30.012494] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.04°C
+Timestamp: 2025-11-29T17:08:30.012494
+Message Count: 163
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:33.038994] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.16°C
+Timestamp: 2025-11-29T17:08:33.037451
+Message Count: 164
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:36.141506] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 34.07°C
+Timestamp: 2025-11-29T17:08:36.140483
+Message Count: 165
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:39.182790] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.61°C
+Timestamp: 2025-11-29T17:08:39.182279
+Message Count: 166
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:42.244468] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 34.36°C
+Timestamp: 2025-11-29T17:08:42.243894
+Message Count: 167
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:45.271312] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.11°C
+Timestamp: 2025-11-29T17:08:45.271312
+Message Count: 168
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:48.282254] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.93°C
+Timestamp: 2025-11-29T17:08:48.281224
+Message Count: 169
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:51.339848] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 31.24°C
+Timestamp: 2025-11-29T17:08:51.338808
+Message Count: 170
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:54.364524] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.56°C
+Timestamp: 2025-11-29T17:08:54.363489
+Message Count: 171
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:57.393187] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.5°C
+Timestamp: 2025-11-29T17:08:57.392110
+Message Count: 172
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:00.434157] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.7°C
+Timestamp: 2025-11-29T17:09:00.434157
+Message Count: 173
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:03.448795] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.37°C
+Timestamp: 2025-11-29T17:09:03.448290
+Message Count: 174
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:06.464566] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 34.68°C
+Timestamp: 2025-11-29T17:09:06.464566
+Message Count: 175
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:09.477852] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.58°C
+Timestamp: 2025-11-29T17:09:09.477852
+Message Count: 176
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:12.486829] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 30.22°C
+Timestamp: 2025-11-29T17:09:12.486829
+Message Count: 177
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:15.497200] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.37°C
+Timestamp: 2025-11-29T17:09:15.496653
+Message Count: 178
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:18.504915] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 34.4°C
+Timestamp: 2025-11-29T17:09:18.504915
+Message Count: 179
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:21.514119] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 26.43°C
+Timestamp: 2025-11-29T17:09:21.514119
+Message Count: 180
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:24.523070] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 30.19°C
+Timestamp: 2025-11-29T17:09:24.522554
+Message Count: 181
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:27.574702] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.01°C
+Timestamp: 2025-11-29T17:09:27.573359
+Message Count: 182
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:30.616696] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.3°C
+Timestamp: 2025-11-29T17:09:30.615674
+Message Count: 183
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:33.670890] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.08°C
+Timestamp: 2025-11-29T17:09:33.669800
+Message Count: 184
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:36.713827] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.41°C
+Timestamp: 2025-11-29T17:09:36.712794
+Message Count: 185
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:39.767496] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.27°C
+Timestamp: 2025-11-29T17:09:39.766270
+Message Count: 186
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:42.831218] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.23°C
+Timestamp: 2025-11-29T17:09:42.829742
+Message Count: 187
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:45.874724] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 22.88°C
+Timestamp: 2025-11-29T17:09:45.873644
+Message Count: 188
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:48.896547] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.98°C
+Timestamp: 2025-11-29T17:09:48.896547
+Message Count: 189
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:51.903178] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.65°C
+Timestamp: 2025-11-29T17:09:51.902142
+Message Count: 190
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:54.961950] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.55°C
+Timestamp: 2025-11-29T17:09:54.960671
+Message Count: 191
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:58.019137] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.3°C
+Timestamp: 2025-11-29T17:09:58.018087
+Message Count: 192
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:01.062536] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.8°C
+Timestamp: 2025-11-29T17:10:01.060989
+Message Count: 193
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:04.119525] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 27.75°C
+Timestamp: 2025-11-29T17:10:04.118492
+Message Count: 194
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:07.164146] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 29.22°C
+Timestamp: 2025-11-29T17:10:07.163049
+Message Count: 195
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:10.188778] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 33.1°C
+Timestamp: 2025-11-29T17:10:10.187191
+Message Count: 196
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:13.241944] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 26.07°C
+Timestamp: 2025-11-29T17:10:13.240901
+Message Count: 197
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:16.261645] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.72°C
+Timestamp: 2025-11-29T17:10:16.259976
+Message Count: 198
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:19.296025] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 21.95°C
+Timestamp: 2025-11-29T17:10:19.294396
+Message Count: 199
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:22.321311] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.4°C
+Timestamp: 2025-11-29T17:10:22.320261
+Message Count: 200
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:25.382426] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.94°C
+Timestamp: 2025-11-29T17:10:25.381919
+Message Count: 201
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:28.394669] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 24.94°C
+Timestamp: 2025-11-29T17:10:28.394669
+Message Count: 202
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:31.403953] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 30.07°C
+Timestamp: 2025-11-29T17:10:31.402900
+Message Count: 203
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:34.433362] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.17°C
+Timestamp: 2025-11-29T17:10:34.433362
+Message Count: 204
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:37.444231] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.72°C
+Timestamp: 2025-11-29T17:10:37.443148
+Message Count: 205
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:40.475899] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 28.58°C
+Timestamp: 2025-11-29T17:10:40.475899
+Message Count: 206
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:43.502742] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 26.26°C
+Timestamp: 2025-11-29T17:10:43.500714
+Message Count: 207
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:46.528143] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 23.53°C
+Timestamp: 2025-11-29T17:10:46.528143
+Message Count: 208
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:49.538203] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.86°C
+Timestamp: 2025-11-29T17:10:49.538203
+Message Count: 209
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:52.546953] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 32.6°C
+Timestamp: 2025-11-29T17:10:52.546953
+Message Count: 210
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:55.559197] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.88°C
+Timestamp: 2025-11-29T17:10:55.559197
+Message Count: 211
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:58.566833] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 25.52°C
+Timestamp: 2025-11-29T17:10:58.566833
+Message Count: 212
+============================================================
+
+
+============================================================
+[2025-11-29 17:11:01.578386] Message Received from Topic: sensors/temperature
+Sensor ID: TEMP_001
+Student ID: 12114868
+Temperature: 20.67°C
+Timestamp: 2025-11-29T17:11:01.578386
+Message Count: 213
+============================================================
+

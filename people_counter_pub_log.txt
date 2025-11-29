@@ -1,0 +1,900 @@
+[2025-11-29 17:03:36.797757] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 7,
+  "total_count": 7,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:03:36.797757",
+  "count": 0
+}
+------------------------------------------------------------
+[2025-11-29 17:03:41.800213] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 17,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:03:41.800213",
+  "count": 1
+}
+------------------------------------------------------------
+[2025-11-29 17:03:46.824248] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 26,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:03:46.824248",
+  "count": 2
+}
+------------------------------------------------------------
+[2025-11-29 17:03:51.830253] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 41,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:03:51.830253",
+  "count": 3
+}
+------------------------------------------------------------
+[2025-11-29 17:03:56.835280] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 50,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:03:56.835280",
+  "count": 4
+}
+------------------------------------------------------------
+[2025-11-29 17:04:01.842556] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 5,
+  "total_count": 55,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:01.841991",
+  "count": 5
+}
+------------------------------------------------------------
+[2025-11-29 17:04:06.879110] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 59,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:06.878589",
+  "count": 6
+}
+------------------------------------------------------------
+[2025-11-29 17:04:11.931896] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 59,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:11.931896",
+  "count": 7
+}
+------------------------------------------------------------
+[2025-11-29 17:04:16.940227] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 3,
+  "total_count": 62,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:16.940227",
+  "count": 8
+}
+------------------------------------------------------------
+[2025-11-29 17:04:21.951961] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 7,
+  "total_count": 69,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:21.951961",
+  "count": 9
+}
+------------------------------------------------------------
+[2025-11-29 17:04:26.959869] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 69,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:26.959349",
+  "count": 10
+}
+------------------------------------------------------------
+[2025-11-29 17:04:32.010174] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 5,
+  "total_count": 74,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:32.010174",
+  "count": 11
+}
+------------------------------------------------------------
+[2025-11-29 17:04:37.019496] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 74,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:37.019496",
+  "count": 12
+}
+------------------------------------------------------------
+[2025-11-29 17:04:42.034000] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 78,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:42.034000",
+  "count": 13
+}
+------------------------------------------------------------
+[2025-11-29 17:04:47.062510] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 87,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:47.062510",
+  "count": 14
+}
+------------------------------------------------------------
+[2025-11-29 17:04:52.131907] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 91,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:52.131907",
+  "count": 15
+}
+------------------------------------------------------------
+[2025-11-29 17:04:57.143148] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 5,
+  "total_count": 96,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:57.143148",
+  "count": 16
+}
+------------------------------------------------------------
+[2025-11-29 17:05:02.160557] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 1,
+  "total_count": 97,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:02.160557",
+  "count": 17
+}
+------------------------------------------------------------
+[2025-11-29 17:05:07.196002] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 8,
+  "total_count": 105,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:07.196002",
+  "count": 18
+}
+------------------------------------------------------------
+[2025-11-29 17:05:12.207982] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 120,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:12.207982",
+  "count": 19
+}
+------------------------------------------------------------
+[2025-11-29 17:05:17.221558] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 2,
+  "total_count": 122,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:17.221558",
+  "count": 20
+}
+------------------------------------------------------------
+[2025-11-29 17:05:22.265848] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 7,
+  "total_count": 129,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:22.265329",
+  "count": 21
+}
+------------------------------------------------------------
+[2025-11-29 17:05:27.327455] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 144,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:27.327455",
+  "count": 22
+}
+------------------------------------------------------------
+[2025-11-29 17:05:32.366230] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 11,
+  "total_count": 155,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:32.366230",
+  "count": 23
+}
+------------------------------------------------------------
+[2025-11-29 17:05:37.425038] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 170,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:37.425038",
+  "count": 24
+}
+------------------------------------------------------------
+[2025-11-29 17:05:42.439198] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 3,
+  "total_count": 173,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:42.439198",
+  "count": 25
+}
+------------------------------------------------------------
+[2025-11-29 17:05:47.448854] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 185,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:47.448854",
+  "count": 26
+}
+------------------------------------------------------------
+[2025-11-29 17:05:52.459871] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 194,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:52.459871",
+  "count": 27
+}
+------------------------------------------------------------
+[2025-11-29 17:05:57.511067] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 209,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:57.511067",
+  "count": 28
+}
+------------------------------------------------------------
+[2025-11-29 17:06:02.522719] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 224,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:02.522719",
+  "count": 29
+}
+------------------------------------------------------------
+[2025-11-29 17:06:07.539329] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 1,
+  "total_count": 225,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:07.539329",
+  "count": 30
+}
+------------------------------------------------------------
+[2025-11-29 17:06:12.584832] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 229,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:12.584832",
+  "count": 31
+}
+------------------------------------------------------------
+[2025-11-29 17:06:17.593195] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 239,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:17.593195",
+  "count": 32
+}
+------------------------------------------------------------
+[2025-11-29 17:06:22.631945] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 7,
+  "total_count": 246,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:22.631945",
+  "count": 33
+}
+------------------------------------------------------------
+[2025-11-29 17:06:27.685963] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 261,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:27.685413",
+  "count": 34
+}
+------------------------------------------------------------
+[2025-11-29 17:06:32.722293] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 6,
+  "total_count": 267,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:32.722293",
+  "count": 35
+}
+------------------------------------------------------------
+[2025-11-29 17:06:37.732670] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 276,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:37.732670",
+  "count": 36
+}
+------------------------------------------------------------
+[2025-11-29 17:06:42.755524] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 288,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:42.755524",
+  "count": 37
+}
+------------------------------------------------------------
+[2025-11-29 17:06:47.802479] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 300,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:47.802479",
+  "count": 38
+}
+------------------------------------------------------------
+[2025-11-29 17:06:52.813378] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 312,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:52.813378",
+  "count": 39
+}
+------------------------------------------------------------
+[2025-11-29 17:06:57.822864] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 3,
+  "total_count": 315,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:57.822342",
+  "count": 40
+}
+------------------------------------------------------------
+[2025-11-29 17:07:02.860384] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 319,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:02.860384",
+  "count": 41
+}
+------------------------------------------------------------
+[2025-11-29 17:07:07.872589] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 8,
+  "total_count": 327,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:07.872589",
+  "count": 42
+}
+------------------------------------------------------------
+[2025-11-29 17:07:12.884125] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 331,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:12.884125",
+  "count": 43
+}
+------------------------------------------------------------
+[2025-11-29 17:07:17.893512] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 341,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:17.893512",
+  "count": 44
+}
+------------------------------------------------------------
+[2025-11-29 17:07:22.959516] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 351,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:22.959516",
+  "count": 45
+}
+------------------------------------------------------------
+[2025-11-29 17:07:27.973922] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 355,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:27.973922",
+  "count": 46
+}
+------------------------------------------------------------
+[2025-11-29 17:07:33.023566] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 365,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:33.023566",
+  "count": 47
+}
+------------------------------------------------------------
+[2025-11-29 17:07:38.066154] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 8,
+  "total_count": 373,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:38.066154",
+  "count": 48
+}
+------------------------------------------------------------
+[2025-11-29 17:07:43.105961] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 13,
+  "total_count": 386,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:43.105961",
+  "count": 49
+}
+------------------------------------------------------------
+[2025-11-29 17:07:48.123385] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 11,
+  "total_count": 397,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:48.123385",
+  "count": 50
+}
+------------------------------------------------------------
+[2025-11-29 17:07:53.152084] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 407,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:53.152084",
+  "count": 51
+}
+------------------------------------------------------------
+[2025-11-29 17:07:58.161881] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 417,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:58.161881",
+  "count": 52
+}
+------------------------------------------------------------
+[2025-11-29 17:08:03.206602] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 426,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:03.206602",
+  "count": 53
+}
+------------------------------------------------------------
+[2025-11-29 17:08:08.223717] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 430,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:08.223717",
+  "count": 54
+}
+------------------------------------------------------------
+[2025-11-29 17:08:13.235378] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 440,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:13.235378",
+  "count": 55
+}
+------------------------------------------------------------
+[2025-11-29 17:08:18.246117] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 2,
+  "total_count": 442,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:18.246117",
+  "count": 56
+}
+------------------------------------------------------------
+[2025-11-29 17:08:23.275746] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 7,
+  "total_count": 449,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:23.275746",
+  "count": 57
+}
+------------------------------------------------------------
+[2025-11-29 17:08:28.287881] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 464,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:28.287881",
+  "count": 58
+}
+------------------------------------------------------------
+[2025-11-29 17:08:33.315738] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 468,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:33.315738",
+  "count": 59
+}
+------------------------------------------------------------
+[2025-11-29 17:08:38.435064] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 468,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:38.435064",
+  "count": 60
+}
+------------------------------------------------------------
+[2025-11-29 17:08:43.462752] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 6,
+  "total_count": 474,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:43.462752",
+  "count": 61
+}
+------------------------------------------------------------
+[2025-11-29 17:08:48.512169] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 8,
+  "total_count": 482,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:48.512169",
+  "count": 62
+}
+------------------------------------------------------------
+[2025-11-29 17:08:53.579864] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 491,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:53.579864",
+  "count": 63
+}
+------------------------------------------------------------
+[2025-11-29 17:08:58.616637] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 506,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:58.616637",
+  "count": 64
+}
+------------------------------------------------------------
+[2025-11-29 17:09:03.627970] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 2,
+  "total_count": 508,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:03.627970",
+  "count": 65
+}
+------------------------------------------------------------
+[2025-11-29 17:09:08.639905] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 5,
+  "total_count": 513,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:08.639905",
+  "count": 66
+}
+------------------------------------------------------------
+[2025-11-29 17:09:13.661597] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 11,
+  "total_count": 524,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:13.661597",
+  "count": 67
+}
+------------------------------------------------------------
+[2025-11-29 17:09:18.680584] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 533,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:18.680584",
+  "count": 68
+}
+------------------------------------------------------------
+[2025-11-29 17:09:23.695618] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 543,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:23.695618",
+  "count": 69
+}
+------------------------------------------------------------
+[2025-11-29 17:09:28.706431] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 555,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:28.706431",
+  "count": 70
+}
+------------------------------------------------------------
+[2025-11-29 17:09:33.726678] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 567,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:33.726678",
+  "count": 71
+}
+------------------------------------------------------------
+[2025-11-29 17:09:38.753760] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 571,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:38.753760",
+  "count": 72
+}
+------------------------------------------------------------
+[2025-11-29 17:09:43.761483] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 571,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:43.761483",
+  "count": 73
+}
+------------------------------------------------------------
+[2025-11-29 17:09:48.773896] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 11,
+  "total_count": 582,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:48.773896",
+  "count": 74
+}
+------------------------------------------------------------
+[2025-11-29 17:09:53.823279] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 1,
+  "total_count": 583,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:53.823279",
+  "count": 75
+}
+------------------------------------------------------------
+[2025-11-29 17:09:58.864095] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 587,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:58.864095",
+  "count": 76
+}
+------------------------------------------------------------
+[2025-11-29 17:10:03.873691] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 597,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:03.873691",
+  "count": 77
+}
+------------------------------------------------------------
+[2025-11-29 17:10:08.933844] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 607,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:08.933326",
+  "count": 78
+}
+------------------------------------------------------------
+[2025-11-29 17:10:13.955954] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 6,
+  "total_count": 613,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:13.955434",
+  "count": 79
+}
+------------------------------------------------------------
+[2025-11-29 17:10:19.021475] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 613,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:19.021475",
+  "count": 80
+}
+------------------------------------------------------------
+[2025-11-29 17:10:24.106427] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 623,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:24.105831",
+  "count": 81
+}
+------------------------------------------------------------
+[2025-11-29 17:10:29.185375] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 632,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:29.184793",
+  "count": 82
+}
+------------------------------------------------------------
+[2025-11-29 17:10:34.251146] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 636,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:34.250553",
+  "count": 83
+}
+------------------------------------------------------------
+[2025-11-29 17:10:39.303749] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 651,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:39.303749",
+  "count": 84
+}
+------------------------------------------------------------
+[2025-11-29 17:10:44.316674] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 7,
+  "total_count": 658,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:44.316159",
+  "count": 85
+}
+------------------------------------------------------------
+[2025-11-29 17:10:49.391329] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 668,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:49.391329",
+  "count": 86
+}
+------------------------------------------------------------
+[2025-11-29 17:10:54.411240] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 672,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:54.411240",
+  "count": 87
+}
+------------------------------------------------------------
+[2025-11-29 17:10:59.464947] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 681,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:59.464947",
+  "count": 88
+}
+------------------------------------------------------------
+[2025-11-29 17:11:04.474543] Published: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 6,
+  "total_count": 687,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:11:04.473995",
+  "count": 89
+}
+------------------------------------------------------------

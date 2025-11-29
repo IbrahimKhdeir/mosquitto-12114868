@@ -1,0 +1,5332 @@
+
+============================================================
+[2025-11-29 17:04:06.651306] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 33.5,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:06.650270",
+  "count": 76
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:06.880140] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 59,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:06.878589",
+  "count": 6
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:08.231283] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 35.0,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:08.230258",
+  "count": 16
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:09.684708] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 31.32,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:09.684708",
+  "count": 77
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:11.931896] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 59,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:11.931896",
+  "count": 7
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:12.267643] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 52.86,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:12.267643",
+  "count": 17
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:12.692572] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.08,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:12.692264",
+  "count": 78
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:15.701027] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 32.55,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:15.699384",
+  "count": 79
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:16.272884] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 70.67,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:16.272884",
+  "count": 18
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:16.940227] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 3,
+  "total_count": 62,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:16.940227",
+  "count": 8
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:18.729347] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 28.5,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:18.729347",
+  "count": 80
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:20.281624] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 81.32,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:20.281624",
+  "count": 19
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:21.737856] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 30.34,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:21.737856",
+  "count": 81
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:21.952236] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 7,
+  "total_count": 69,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:21.951961",
+  "count": 9
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:24.291406] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 84.1,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:24.289361",
+  "count": 20
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:24.749617] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 31.52,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:24.748592",
+  "count": 82
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:26.960897] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 69,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:26.959349",
+  "count": 10
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:27.805778] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.85,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:27.804706",
+  "count": 83
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:28.362774] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 45.05,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:28.361703",
+  "count": 21
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:30.839008] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 26.3,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:30.837981",
+  "count": 84
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:32.010174] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 5,
+  "total_count": 74,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:32.010174",
+  "count": 11
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:32.388488] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 66.03,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:32.387441",
+  "count": 22
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:33.863980] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.4,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:33.862878",
+  "count": 85
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:36.439316] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 59.72,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:36.438751",
+  "count": 23
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:36.884761] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 22.57,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:36.884255",
+  "count": 86
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:37.019496] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 74,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:37.019496",
+  "count": 12
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:39.895916] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 28.24,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:39.894840",
+  "count": 87
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:40.456854] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 68.31,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:40.455828",
+  "count": 24
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:42.035078] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 78,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:42.034000",
+  "count": 13
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:42.916950] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 25.83,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:42.916950",
+  "count": 88
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:44.481032] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 88.74,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:44.479481",
+  "count": 25
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:45.924953] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 31.28,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:45.924953",
+  "count": 89
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:47.063539] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 87,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:47.062510",
+  "count": 14
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:48.510111] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 60.29,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:48.508486",
+  "count": 26
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:48.935044] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 25.94,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:48.934536",
+  "count": 90
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:51.947370] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 28.91,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:51.946287",
+  "count": 91
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:52.131907] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 91,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:52.131907",
+  "count": 15
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:52.564810] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 31.89,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:52.563556",
+  "count": 27
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:54.993312] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.28,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:54.993312",
+  "count": 92
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:56.634811] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 35.72,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:04:56.633236",
+  "count": 28
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:57.143148] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 5,
+  "total_count": 96,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:04:57.143148",
+  "count": 16
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:58.014238] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 28.72,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:04:58.012697",
+  "count": 93
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:00.691978] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 38.82,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:00.690470",
+  "count": 29
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:01.042869] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.31,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:01.041583",
+  "count": 94
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:02.161647] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 1,
+  "total_count": 97,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:02.160557",
+  "count": 17
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:04.104426] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 20.98,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:04.103866",
+  "count": 95
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:04.748692] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 65.38,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:04.748692",
+  "count": 30
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:07.132379] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 28.53,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:07.131361",
+  "count": 96
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:07.196514] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 8,
+  "total_count": 105,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:07.196002",
+  "count": 18
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:08.757727] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 55.65,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:08.757727",
+  "count": 31
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:10.157962] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 30.19,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:10.157962",
+  "count": 97
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:12.207982] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 120,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:12.207982",
+  "count": 19
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:12.769360] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 54.91,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:12.767757",
+  "count": 32
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:13.169202] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 31.71,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:13.169202",
+  "count": 98
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:16.182105] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 30.76,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:16.181071",
+  "count": 99
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:16.805144] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 64.05,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:16.803111",
+  "count": 33
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:17.222584] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 2,
+  "total_count": 122,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:17.221558",
+  "count": 20
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:19.202684] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.23,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:19.201613",
+  "count": 100
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:20.845062] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 79.3,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:20.845062",
+  "count": 34
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:22.266889] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 7,
+  "total_count": 129,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:22.265329",
+  "count": 21
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:22.334605] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 28.06,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:22.265848",
+  "count": 101
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:24.854771] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 88.75,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:24.853687",
+  "count": 35
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:25.327708] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.83,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:25.326021",
+  "count": 102
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:27.329485] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 144,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:27.327455",
+  "count": 22
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:28.371267] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 23.01,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:28.370220",
+  "count": 103
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:28.875694] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 49.98,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:28.874149",
+  "count": 36
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:31.404760] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 31.38,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:31.403181",
+  "count": 104
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:32.367278] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 11,
+  "total_count": 155,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:32.366230",
+  "count": 23
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:32.917807] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 44.11,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:32.916259",
+  "count": 37
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:34.460596] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 22.4,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:34.458567",
+  "count": 105
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:36.953707] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 38.71,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:36.953707",
+  "count": 38
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:37.425038] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 170,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:37.425038",
+  "count": 24
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:37.518986] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 23.55,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:37.518986",
+  "count": 106
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:40.531357] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 22.98,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:40.530316",
+  "count": 107
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:40.963630] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 87.09,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:40.963630",
+  "count": 39
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:42.439198] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 3,
+  "total_count": 173,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:42.439198",
+  "count": 25
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:43.578907] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 31.72,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:43.576882",
+  "count": 108
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:44.979896] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 66.09,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:44.979896",
+  "count": 40
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:46.614599] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 30.47,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:46.614599",
+  "count": 109
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:47.448854] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 185,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:47.448854",
+  "count": 26
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:48.992254] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 55.8,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:48.990710",
+  "count": 41
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:49.625232] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 26.18,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:49.624184",
+  "count": 110
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:52.460949] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 194,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:52.459871",
+  "count": 27
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:52.662058] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 28.76,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:52.662058",
+  "count": 111
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:53.035523] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 30.28,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:53.033835",
+  "count": 42
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:55.672178] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 23.88,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:55.671080",
+  "count": 112
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:57.083641] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 34.86,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:05:57.082612",
+  "count": 43
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:57.511067] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 209,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:05:57.511067",
+  "count": 28
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:58.709508] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.32,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:05:58.707957",
+  "count": 113
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:01.107138] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 88.16,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:01.105479",
+  "count": 44
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:01.749294] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 34.62,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:01.749294",
+  "count": 114
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:02.523225] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 224,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:02.522719",
+  "count": 29
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:04.758093] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 21.42,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:04.756896",
+  "count": 115
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:05.133016] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 81.54,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:05.133016",
+  "count": 45
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:07.540446] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 1,
+  "total_count": 225,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:07.539329",
+  "count": 30
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:07.806644] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 23.19,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:07.805591",
+  "count": 116
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:09.141043] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 44.82,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:09.140743",
+  "count": 46
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:10.853233] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 22.64,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:10.853233",
+  "count": 117
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:12.584832] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 229,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:12.584832",
+  "count": 31
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:13.151051] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 35.22,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:13.150035",
+  "count": 47
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:13.868462] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 32.55,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:13.867947",
+  "count": 118
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:16.877736] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 21.46,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:16.877736",
+  "count": 119
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:17.172065] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 37.67,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:17.171555",
+  "count": 48
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:17.594218] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 239,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:17.593195",
+  "count": 32
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:19.892136] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 22.05,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:19.891116",
+  "count": 120
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:21.179809] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 47.42,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:21.179809",
+  "count": 49
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:22.633970] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 7,
+  "total_count": 246,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:22.631945",
+  "count": 33
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:22.934970] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 21.82,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:22.934970",
+  "count": 121
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:25.192387] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 65.65,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:25.191354",
+  "count": 50
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:25.943810] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 29.5,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:25.942765",
+  "count": 122
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:27.687000] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 261,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:27.685413",
+  "count": 34
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:28.987913] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.55,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:28.986833",
+  "count": 123
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:29.224308] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 46.0,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:29.223283",
+  "count": 51
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:32.038008] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 25.79,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:32.037493",
+  "count": 124
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:32.722671] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 6,
+  "total_count": 267,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:32.722293",
+  "count": 35
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:33.281409] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 77.25,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:33.280903",
+  "count": 52
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:35.044211] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 32.11,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:35.043704",
+  "count": 125
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:37.300369] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 89.73,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:37.300369",
+  "count": 53
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:37.733709] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 276,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:37.732670",
+  "count": 36
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:38.055119] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 25.07,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:38.054053",
+  "count": 126
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:41.102038] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 21.95,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:41.101003",
+  "count": 127
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:41.312016] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 69.28,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:41.312016",
+  "count": 54
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:42.756724] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 288,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:42.755524",
+  "count": 37
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:44.144950] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 29.59,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:44.144950",
+  "count": 128
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:45.321094] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 46.04,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:45.320576",
+  "count": 55
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:47.157373] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 25.0,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:47.156864",
+  "count": 129
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:47.802985] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 300,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:47.802479",
+  "count": 38
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:49.345543] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 43.54,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:49.344514",
+  "count": 56
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:50.177262] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.82,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:50.176221",
+  "count": 130
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:52.813378] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 312,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:52.813378",
+  "count": 39
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:53.223132] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 23.28,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:53.222016",
+  "count": 131
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:53.390472] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 48.6,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:53.388444",
+  "count": 57
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:56.249643] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 33.36,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:56.248618",
+  "count": 132
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:57.422753] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 34.67,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:06:57.422753",
+  "count": 58
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:57.823891] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 3,
+  "total_count": 315,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:06:57.822342",
+  "count": 40
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:59.285181] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 34.91,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:06:59.284156",
+  "count": 133
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:01.429925] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 33.2,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:01.429925",
+  "count": 59
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:02.331305] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.87,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:02.330222",
+  "count": 134
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:02.860625] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 319,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:02.860384",
+  "count": 41
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:05.363016] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 31.22,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:05.361159",
+  "count": 135
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:05.460253] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 53.57,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:05.442525",
+  "count": 60
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:07.872589] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 8,
+  "total_count": 327,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:07.872589",
+  "count": 42
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:08.419279] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.82,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:08.419279",
+  "count": 136
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:09.503064] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 49.14,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:09.502025",
+  "count": 61
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:11.429163] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 33.68,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:11.429163",
+  "count": 137
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:12.884125] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 331,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:12.884125",
+  "count": 43
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:13.536070] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 67.72,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:13.536070",
+  "count": 62
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:14.437697] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 34.7,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:14.437697",
+  "count": 138
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:17.451628] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 21.43,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:17.450596",
+  "count": 139
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:17.545160] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 31.44,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:17.545160",
+  "count": 63
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:17.895071] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 341,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:17.893512",
+  "count": 44
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:20.479103] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 30.3,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:20.479103",
+  "count": 140
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:21.554260] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 86.52,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:21.553145",
+  "count": 64
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:22.959516] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 351,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:22.959516",
+  "count": 45
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:23.504025] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 29.89,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:23.502979",
+  "count": 141
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:25.607715] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 30.18,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:25.607715",
+  "count": 65
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:26.535699] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.14,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:26.534151",
+  "count": 142
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:27.974950] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 355,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:27.973922",
+  "count": 46
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:29.553296] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 21.0,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:29.553296",
+  "count": 143
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:29.618522] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 32.05,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:29.618522",
+  "count": 66
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:32.559388] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 31.86,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:32.559388",
+  "count": 144
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:33.024590] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 365,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:33.023566",
+  "count": 47
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:33.627284] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 64.75,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:33.625738",
+  "count": 67
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:35.569660] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 20.34,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:35.569148",
+  "count": 145
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:37.651473] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 63.77,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:37.649915",
+  "count": 68
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:38.067184] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 8,
+  "total_count": 373,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:38.066154",
+  "count": 48
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:38.587989] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 33.44,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:38.586942",
+  "count": 146
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:41.621765] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 22.65,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:41.621765",
+  "count": 147
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:41.708897] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 43.82,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:41.708897",
+  "count": 69
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:43.106473] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 13,
+  "total_count": 386,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:43.105961",
+  "count": 49
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:44.634119] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.19,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:44.634119",
+  "count": 148
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:45.734946] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 46.58,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:45.734946",
+  "count": 70
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:47.641282] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 33.63,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:47.641282",
+  "count": 149
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:48.125452] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 11,
+  "total_count": 397,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:48.123385",
+  "count": 50
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:49.746910] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 67.67,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:49.745838",
+  "count": 71
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:50.658029] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 31.74,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:50.656938",
+  "count": 150
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:53.153103] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 407,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:53.152084",
+  "count": 51
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:53.699243] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 34.41,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:53.698214",
+  "count": 151
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:53.773636] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 55.22,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:53.773636",
+  "count": 72
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:56.733979] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.74,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:56.733979",
+  "count": 152
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:57.782602] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 31.08,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:07:57.781059",
+  "count": 73
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:58.163909] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 417,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:07:58.161881",
+  "count": 52
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:59.742592] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 22.71,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:07:59.741537",
+  "count": 153
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:01.801524] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 30.71,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:01.801524",
+  "count": 74
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:02.752263] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 29.53,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:02.751004",
+  "count": 154
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:03.206602] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 426,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:03.206602",
+  "count": 53
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:05.774358] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 25.18,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:05.774358",
+  "count": 155
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:05.810686] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 44.39,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:05.810686",
+  "count": 75
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:08.224754] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 430,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:08.223717",
+  "count": 54
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:08.786703] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 33.95,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:08.785624",
+  "count": 156
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:09.819041] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 53.86,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:09.819041",
+  "count": 76
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:11.843301] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 32.69,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:11.842751",
+  "count": 157
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:13.235378] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 440,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:13.235378",
+  "count": 55
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:13.828388] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 39.22,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:13.827841",
+  "count": 77
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:14.852979] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 21.43,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:14.852979",
+  "count": 158
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:17.866380] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 32.61,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:17.864679",
+  "count": 159
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:17.919549] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 81.44,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:17.868955",
+  "count": 78
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:18.247192] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 2,
+  "total_count": 442,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:18.246117",
+  "count": 56
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:20.910104] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 23.51,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:20.910104",
+  "count": 160
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:21.911582] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 33.78,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:21.911066",
+  "count": 79
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:23.275746] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 7,
+  "total_count": 449,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:23.275746",
+  "count": 57
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:23.925298] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 28.63,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:23.924267",
+  "count": 161
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:25.920244] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 45.71,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:25.919178",
+  "count": 80
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:26.972548] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.41,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:26.971508",
+  "count": 162
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:28.288912] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 464,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:28.287881",
+  "count": 58
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:29.968310] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 81.64,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:29.967801",
+  "count": 81
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:30.012494] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.04,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:30.012494",
+  "count": 163
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:33.038994] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 31.16,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:33.037451",
+  "count": 164
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:33.316757] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 468,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:33.315738",
+  "count": 59
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:33.985831] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 32.97,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:33.985831",
+  "count": 82
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:36.141506] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 34.07,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:36.140483",
+  "count": 165
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:38.028575] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 43.34,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:38.028064",
+  "count": 83
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:38.435064] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 468,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:38.435064",
+  "count": 60
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:39.182790] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 32.61,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:39.182279",
+  "count": 166
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:42.096522] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 34.63,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:42.095494",
+  "count": 84
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:42.245494] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 34.36,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:42.243894",
+  "count": 167
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:43.463793] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 6,
+  "total_count": 474,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:43.462752",
+  "count": 61
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:45.271312] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 25.11,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:45.271312",
+  "count": 168
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:46.128483] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 49.51,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:46.127409",
+  "count": 85
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:48.282254] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 29.93,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:48.281224",
+  "count": 169
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:48.513266] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 8,
+  "total_count": 482,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:48.512169",
+  "count": 62
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:50.179791] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 88.32,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:50.179791",
+  "count": 86
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:51.339848] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 31.24,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:51.338808",
+  "count": 170
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:53.581920] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 491,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:53.579864",
+  "count": 63
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:54.192965] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 84.0,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:54.190938",
+  "count": 87
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:54.364524] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 23.56,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:54.363489",
+  "count": 171
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:57.393187] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 22.5,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:08:57.392110",
+  "count": 172
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:58.213584] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 32.54,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:08:58.212039",
+  "count": 88
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:58.617156] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 506,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:08:58.616637",
+  "count": 64
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:00.434157] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.7,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:00.434157",
+  "count": 173
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:02.269531] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 37.14,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:02.269023",
+  "count": 89
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:03.448795] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 22.37,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:03.448290",
+  "count": 174
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:03.627970] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 2,
+  "total_count": 508,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:03.627970",
+  "count": 65
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:06.284898] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 36.2,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:06.283869",
+  "count": 90
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:06.464566] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 34.68,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:06.464566",
+  "count": 175
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:08.640936] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 5,
+  "total_count": 513,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:08.639905",
+  "count": 66
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:09.477852] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 20.58,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:09.477852",
+  "count": 176
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:10.309615] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 73.19,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:10.309615",
+  "count": 91
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:12.486829] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 30.22,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:12.486829",
+  "count": 177
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:13.662609] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 11,
+  "total_count": 524,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:13.661597",
+  "count": 67
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:14.324867] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 87.81,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:14.324867",
+  "count": 92
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:15.497200] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 20.37,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:15.496653",
+  "count": 178
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:18.335774] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 89.19,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:18.334696",
+  "count": 93
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:18.504915] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 34.4,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:18.504915",
+  "count": 179
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:18.680584] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 533,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:18.680584",
+  "count": 68
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:21.514119] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 26.43,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:21.514119",
+  "count": 180
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:22.374241] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 39.73,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:22.374241",
+  "count": 94
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:23.695618] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 543,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:23.695618",
+  "count": 69
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:24.524114] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 30.19,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:24.522554",
+  "count": 181
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:26.385263] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 48.24,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:26.383697",
+  "count": 95
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:27.574702] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 22.01,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:27.573359",
+  "count": 182
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:28.707637] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 555,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:28.706431",
+  "count": 70
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:30.444949] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 51.0,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:30.443871",
+  "count": 96
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:30.616696] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 29.3,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:30.615674",
+  "count": 183
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:33.670890] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.08,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:33.669800",
+  "count": 184
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:33.752345] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 12,
+  "total_count": 567,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:33.726678",
+  "count": 71
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:34.471075] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 77.41,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:34.469996",
+  "count": 97
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:36.713827] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 33.41,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:36.712794",
+  "count": 185
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:38.519412] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 80.31,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:38.518361",
+  "count": 98
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:38.753760] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 571,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:38.753760",
+  "count": 72
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:39.767496] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 23.27,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:39.766270",
+  "count": 186
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:42.569052] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 72.93,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:42.567406",
+  "count": 99
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:42.831218] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 32.23,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:42.829742",
+  "count": 187
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:43.761483] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 571,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:43.761483",
+  "count": 73
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:45.874724] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 22.88,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:45.873644",
+  "count": 188
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:46.596145] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 69.55,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:46.594120",
+  "count": 100
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:48.774953] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 11,
+  "total_count": 582,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:48.773896",
+  "count": 74
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:48.896547] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 25.98,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:48.896547",
+  "count": 189
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:50.666068] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 40.97,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:50.664509",
+  "count": 101
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:51.903178] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.65,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:51.902142",
+  "count": 190
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:53.824353] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 1,
+  "total_count": 583,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:53.823279",
+  "count": 75
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:54.737682] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 70.99,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:54.736059",
+  "count": 102
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:54.961950] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 32.55,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:54.960671",
+  "count": 191
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:58.019137] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 20.3,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:09:58.018087",
+  "count": 192
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:58.786168] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 75.46,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:09:58.785092",
+  "count": 103
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:58.864095] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 587,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:09:58.864095",
+  "count": 76
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:01.062536] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.8,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:01.060989",
+  "count": 193
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:02.818507] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 85.7,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:02.817208",
+  "count": 104
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:03.874750] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 597,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:03.873691",
+  "count": 77
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:04.120523] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 27.75,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:04.118492",
+  "count": 194
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:06.866889] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 42.34,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:06.865348",
+  "count": 105
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:07.164146] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 29.22,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:07.163049",
+  "count": 195
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:08.934868] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 607,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:08.933326",
+  "count": 78
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:10.188778] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 33.1,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:10.187191",
+  "count": 196
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:10.912877] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 85.95,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:10.911848",
+  "count": 106
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:13.241944] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 26.07,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:13.240901",
+  "count": 197
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:13.956999] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 6,
+  "total_count": 613,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:13.955434",
+  "count": 79
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:14.940433] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 80.67,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:14.939404",
+  "count": 107
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:16.261645] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 32.72,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:16.259976",
+  "count": 198
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:18.993357] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 70.43,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:18.992278",
+  "count": 108
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:19.118879] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 0,
+  "total_count": 613,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:19.021475",
+  "count": 80
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:19.296025] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 21.95,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:19.294396",
+  "count": 199
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:22.321311] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.4,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:22.320261",
+  "count": 200
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:23.037691] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 64.2,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:23.036644",
+  "count": 109
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:24.107468] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 623,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:24.105831",
+  "count": 81
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:25.382426] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.94,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:25.381919",
+  "count": 201
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:27.084843] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 59.93,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:27.083160",
+  "count": 110
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:28.394669] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 24.94,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:28.394669",
+  "count": 202
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:29.186417] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 632,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:29.184793",
+  "count": 82
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:31.134810] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 88.95,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:31.133193",
+  "count": 111
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:31.403953] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 30.07,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:31.402900",
+  "count": 203
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:34.252195] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 636,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:34.250553",
+  "count": 83
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:34.433362] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 28.17,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:34.433362",
+  "count": 204
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:35.163606] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 86.56,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:35.162556",
+  "count": 112
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:37.444231] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 20.72,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:37.443148",
+  "count": 205
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:39.213968] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 79.98,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:39.212886",
+  "count": 113
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:39.303749] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 15,
+  "total_count": 651,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:39.303749",
+  "count": 84
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:40.475899] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 28.58,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:40.475899",
+  "count": 206
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:43.236616] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 77.92,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:43.235118",
+  "count": 114
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:43.502742] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 26.26,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:43.500714",
+  "count": 207
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:44.317702] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 7,
+  "total_count": 658,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:44.316159",
+  "count": 85
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:46.528143] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 23.53,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:46.528143",
+  "count": 208
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:47.274139] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 89.48,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:47.274139",
+  "count": 115
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:49.392619] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 10,
+  "total_count": 668,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:49.391329",
+  "count": 86
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:49.538203] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 32.86,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:49.538203",
+  "count": 209
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:51.284623] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 53.35,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:51.284623",
+  "count": 116
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:52.546953] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 32.6,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:52.546953",
+  "count": 210
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:54.412266] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 4,
+  "total_count": 672,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:54.411240",
+  "count": 87
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:55.296686] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 30.55,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:55.295665",
+  "count": 117
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:55.559197] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 20.88,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:55.559197",
+  "count": 211
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:58.566833] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 25.52,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:10:58.566833",
+  "count": 212
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:59.317540] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 81.6,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:10:59.317540",
+  "count": 118
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:59.464947] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 9,
+  "total_count": 681,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:10:59.464947",
+  "count": 88
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:11:01.578386] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 20.67,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:11:01.578386",
+  "count": 213
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:11:03.332690] Message Received
+Topic: sensors/humidity
+Type: HUMIDITY
+Student ID: 12114868
+Data: {
+  "sensor_id": "HUM_001",
+  "student_id": "12114868",
+  "humidity": 69.44,
+  "unit": "Percent",
+  "timestamp": "2025-11-29T17:11:03.332690",
+  "count": 119
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:11:04.475588] Message Received
+Topic: sensors/people_counter
+Type: PEOPLE_COUNTER
+Student ID: 12114868
+Data: {
+  "sensor_id": "COUNTER_001",
+  "student_id": "12114868",
+  "people_detected": 6,
+  "total_count": 687,
+  "location": "Main Entrance",
+  "timestamp": "2025-11-29T17:11:04.473995",
+  "count": 89
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:11:04.588551] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 25.23,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:11:04.588551",
+  "count": 214
+}
+============================================================
+
+
+============================================================
+[2025-11-29 17:11:07.597688] Message Received
+Topic: sensors/temperature
+Type: TEMPERATURE
+Student ID: 12114868
+Data: {
+  "sensor_id": "TEMP_001",
+  "student_id": "12114868",
+  "temperature": 26.4,
+  "unit": "Celsius",
+  "timestamp": "2025-11-29T17:11:07.596662",
+  "count": 215
+}
+============================================================
+

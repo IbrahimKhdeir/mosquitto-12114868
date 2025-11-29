@@ -1,0 +1,1032 @@
+
+============================================================
+[2025-11-29 17:03:56.835280] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 9
+Total Count: 50
+Location: Main Entrance
+Timestamp: 2025-11-29T17:03:56.835280
+Message Count: 4
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:01.843581] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 5
+Total Count: 55
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:01.841991
+Message Count: 5
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:06.880140] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 59
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:06.878589
+Message Count: 6
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:11.931896] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 0
+Total Count: 59
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:11.931896
+Message Count: 7
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:16.940227] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 3
+Total Count: 62
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:16.940227
+Message Count: 8
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:21.952236] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 7
+Total Count: 69
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:21.951961
+Message Count: 9
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:26.960897] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 0
+Total Count: 69
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:26.959349
+Message Count: 10
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:32.010174] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 5
+Total Count: 74
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:32.010174
+Message Count: 11
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:37.019496] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 0
+Total Count: 74
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:37.019496
+Message Count: 12
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:42.035078] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 78
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:42.034000
+Message Count: 13
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:47.063539] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 9
+Total Count: 87
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:47.062510
+Message Count: 14
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:52.131907] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 91
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:52.131907
+Message Count: 15
+============================================================
+
+
+============================================================
+[2025-11-29 17:04:57.143148] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 5
+Total Count: 96
+Location: Main Entrance
+Timestamp: 2025-11-29T17:04:57.143148
+Message Count: 16
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:02.161647] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 1
+Total Count: 97
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:02.160557
+Message Count: 17
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:07.196514] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 8
+Total Count: 105
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:07.196002
+Message Count: 18
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:12.207982] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 15
+Total Count: 120
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:12.207982
+Message Count: 19
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:17.222584] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 2
+Total Count: 122
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:17.221558
+Message Count: 20
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:22.266889] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 7
+Total Count: 129
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:22.265329
+Message Count: 21
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:27.329485] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 15
+Total Count: 144
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:27.327455
+Message Count: 22
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:32.367278] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 11
+Total Count: 155
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:32.366230
+Message Count: 23
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:37.425038] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 15
+Total Count: 170
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:37.425038
+Message Count: 24
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:42.439198] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 3
+Total Count: 173
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:42.439198
+Message Count: 25
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:47.448854] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 12
+Total Count: 185
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:47.448854
+Message Count: 26
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:52.460949] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 9
+Total Count: 194
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:52.459871
+Message Count: 27
+============================================================
+
+
+============================================================
+[2025-11-29 17:05:57.511067] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 15
+Total Count: 209
+Location: Main Entrance
+Timestamp: 2025-11-29T17:05:57.511067
+Message Count: 28
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:02.523225] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 15
+Total Count: 224
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:02.522719
+Message Count: 29
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:07.540446] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 1
+Total Count: 225
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:07.539329
+Message Count: 30
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:12.584832] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 229
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:12.584832
+Message Count: 31
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:17.594218] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 239
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:17.593195
+Message Count: 32
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:22.633970] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 7
+Total Count: 246
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:22.631945
+Message Count: 33
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:27.687000] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 15
+Total Count: 261
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:27.685413
+Message Count: 34
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:32.722671] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 6
+Total Count: 267
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:32.722293
+Message Count: 35
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:37.733709] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 9
+Total Count: 276
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:37.732670
+Message Count: 36
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:42.756724] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 12
+Total Count: 288
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:42.755524
+Message Count: 37
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:47.802985] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 12
+Total Count: 300
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:47.802479
+Message Count: 38
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:52.813378] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 12
+Total Count: 312
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:52.813378
+Message Count: 39
+============================================================
+
+
+============================================================
+[2025-11-29 17:06:57.823891] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 3
+Total Count: 315
+Location: Main Entrance
+Timestamp: 2025-11-29T17:06:57.822342
+Message Count: 40
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:02.860625] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 319
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:02.860384
+Message Count: 41
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:07.872589] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 8
+Total Count: 327
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:07.872589
+Message Count: 42
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:12.884125] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 331
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:12.884125
+Message Count: 43
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:17.895071] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 341
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:17.893512
+Message Count: 44
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:22.959516] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 351
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:22.959516
+Message Count: 45
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:27.974950] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 355
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:27.973922
+Message Count: 46
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:33.024590] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 365
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:33.023566
+Message Count: 47
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:38.067184] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 8
+Total Count: 373
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:38.066154
+Message Count: 48
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:43.106473] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 13
+Total Count: 386
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:43.105961
+Message Count: 49
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:48.124494] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 11
+Total Count: 397
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:48.123385
+Message Count: 50
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:53.153103] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 407
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:53.152084
+Message Count: 51
+============================================================
+
+
+============================================================
+[2025-11-29 17:07:58.163909] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 417
+Location: Main Entrance
+Timestamp: 2025-11-29T17:07:58.161881
+Message Count: 52
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:03.206602] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 9
+Total Count: 426
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:03.206602
+Message Count: 53
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:08.224754] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 430
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:08.223717
+Message Count: 54
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:13.235378] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 440
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:13.235378
+Message Count: 55
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:18.247192] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 2
+Total Count: 442
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:18.246117
+Message Count: 56
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:23.275746] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 7
+Total Count: 449
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:23.275746
+Message Count: 57
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:28.288912] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 15
+Total Count: 464
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:28.287881
+Message Count: 58
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:33.316757] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 468
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:33.315738
+Message Count: 59
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:38.435064] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 0
+Total Count: 468
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:38.435064
+Message Count: 60
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:43.463793] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 6
+Total Count: 474
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:43.462752
+Message Count: 61
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:48.513266] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 8
+Total Count: 482
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:48.512169
+Message Count: 62
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:53.580895] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 9
+Total Count: 491
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:53.579864
+Message Count: 63
+============================================================
+
+
+============================================================
+[2025-11-29 17:08:58.617156] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 15
+Total Count: 506
+Location: Main Entrance
+Timestamp: 2025-11-29T17:08:58.616637
+Message Count: 64
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:03.627970] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 2
+Total Count: 508
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:03.627970
+Message Count: 65
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:08.640936] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 5
+Total Count: 513
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:08.639905
+Message Count: 66
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:13.662609] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 11
+Total Count: 524
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:13.661597
+Message Count: 67
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:18.680584] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 9
+Total Count: 533
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:18.680584
+Message Count: 68
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:23.695618] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 543
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:23.695618
+Message Count: 69
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:28.707637] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 12
+Total Count: 555
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:28.706431
+Message Count: 70
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:33.727723] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 12
+Total Count: 567
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:33.726678
+Message Count: 71
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:38.753760] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 571
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:38.753760
+Message Count: 72
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:43.761483] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 0
+Total Count: 571
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:43.761483
+Message Count: 73
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:48.774953] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 11
+Total Count: 582
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:48.773896
+Message Count: 74
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:53.824353] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 1
+Total Count: 583
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:53.823279
+Message Count: 75
+============================================================
+
+
+============================================================
+[2025-11-29 17:09:58.864095] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 587
+Location: Main Entrance
+Timestamp: 2025-11-29T17:09:58.864095
+Message Count: 76
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:03.874750] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 597
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:03.873691
+Message Count: 77
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:08.934868] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 607
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:08.933326
+Message Count: 78
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:13.956999] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 6
+Total Count: 613
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:13.955434
+Message Count: 79
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:19.022552] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 0
+Total Count: 613
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:19.021475
+Message Count: 80
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:24.107468] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 623
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:24.105831
+Message Count: 81
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:29.186417] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 9
+Total Count: 632
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:29.184793
+Message Count: 82
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:34.252195] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 636
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:34.250553
+Message Count: 83
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:39.303749] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 15
+Total Count: 651
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:39.303749
+Message Count: 84
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:44.317702] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 7
+Total Count: 658
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:44.316159
+Message Count: 85
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:49.392619] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 10
+Total Count: 668
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:49.391329
+Message Count: 86
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:54.412266] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 4
+Total Count: 672
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:54.411240
+Message Count: 87
+============================================================
+
+
+============================================================
+[2025-11-29 17:10:59.464947] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 9
+Total Count: 681
+Location: Main Entrance
+Timestamp: 2025-11-29T17:10:59.464947
+Message Count: 88
+============================================================
+
+
+============================================================
+[2025-11-29 17:11:04.475588] Message Received from Topic: sensors/people_counter
+Sensor ID: COUNTER_001
+Student ID: 12114868
+People Detected: 6
+Total Count: 687
+Location: Main Entrance
+Timestamp: 2025-11-29T17:11:04.473995
+Message Count: 89
+============================================================
+
