@@ -130,32 +130,31 @@ py -3.12 mqtt_pub_counter.py
 ## 🖼️ Screenshots Included
 
 ### Temperature Publisher
-![Temperature Publisher](screenshots/temp_pub.png)
+<img width="919" height="529" alt="image" src="https://github.com/user-attachments/assets/f58bc327-0f7d-4718-9c91-556ab25be06e" />
+
 
 ### Temperature Subscriber
-![Temperature Subscriber](screenshots/temp_sub.png)
+<img width="918" height="518" alt="image" src="https://github.com/user-attachments/assets/2ab79aa8-f8f2-424c-9752-25603e8a8819" />
+
 
 ### Humidity Publisher
-![Humidity Publisher](screenshots/hum_pub.png)
+<img width="939" height="514" alt="image" src="https://github.com/user-attachments/assets/a9ab3744-ce6b-4be8-bd74-9801701b36ac" />
+
 
 ### Humidity Subscriber
-![Humidity Subscriber](screenshots/hum_sub.png)
+<img width="917" height="537" alt="image" src="https://github.com/user-attachments/assets/66a2f4ac-0348-4b30-ac74-e6a84e2d1e66" />
+
 
 ### People Counter Publisher
-![People Counter Publisher](screenshots/counter_pub.png)
+<img width="921" height="530" alt="image" src="https://github.com/user-attachments/assets/f950f7ea-ab17-43c6-b2a1-fde68446df9e" />
+
 
 ### People Counter Subscriber
-![People Counter Subscriber](screenshots/counter_sub.png)
+<img width="923" height="525" alt="image" src="https://github.com/user-attachments/assets/264e17e3-20b7-4600-a83e-e0fa1ff1169e" />
+
 
 ### Multi-topic Subscriber
-![Multi-topic Subscriber](screenshots/all_sub.png)
-
-### Mosquitto Broker
-![Mosquitto Broker](screenshots/mosquitto.png)
-
-
-
-
+<img width="1116" height="630" alt="image" src="https://github.com/user-attachments/assets/dd106f01-4105-480f-b150-7cd9db95596e" />
 
 
 ---
